@@ -1,0 +1,22 @@
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background: linear-gradient(#ffd500 8.333333333333333%, #ff6f00 16.66666666666667%, #ff4800 25%, #ff0000 33.33333333333333%, #ff0062 41.66666666666667%, #dd00ff 50%, #6f00ff 58.33333333333333%, #0026ff 66.66666666666667%, #00fbff 75%, #00ff33 83.33333333333333%, #b3ff00 91.66666666666666%, #d0ff00 100%);
+}
+#myCarousel img{
+    height: 250px;
+    width: 250px;
+margin-top: 35;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: royalblue;
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    background-color: aqua
+}
